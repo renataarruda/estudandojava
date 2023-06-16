@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Projeto {
+public class ChecaValor {
     public static void main(String[] args) {
         int num1, num2;
         double div=0;
