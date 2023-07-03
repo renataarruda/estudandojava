@@ -19,7 +19,7 @@ public class ClienteFidelidade extends Cliente {
         if (this.getPontos() >= 0 && this.getPontos() < 1000)
             return "Você ainda não tem direito a prêmios.";
         else if (this.getPontos() >= 1000 && this.getPontos() <= 10000)
-            return "Você tem direito a um desconto de 10% em sua p´roxima compra.";
+            return "Você tem direito a um desconto de 10% em sua próxima compra.";
         else
             return "Você tem direito a prêmios. Consulte o catálogo.";
 
