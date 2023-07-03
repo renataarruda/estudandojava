@@ -47,4 +47,8 @@ public class Empregado extends Pessoa {
                 "Salário fixo: " + this.getSalario_fixo() + "\n" +
                 "Dias trabalhados: " + this.getDias_trabalhados() + "\n";
     }
+
+    public String imprimeDadosComSalarioMensal() {
+        return this.imprimeDados() + "\n" + "Salário mensal: " + calcula_salario_mensal();
+    }
 }

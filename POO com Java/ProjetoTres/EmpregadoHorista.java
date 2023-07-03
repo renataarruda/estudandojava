@@ -2,9 +2,6 @@ public class EmpregadoHorista extends Empregado{
 
     private double quantidade_horas_trabalhadas;
     private double valor_hora;
-    public EmpregadoHorista(String nome, String cpf) {
-        super(nome, cpf);
-    }
     public EmpregadoHorista(String nome, String cpf, double quantidade_horas_trabalhadas,
                             double valor_hora, double salario_fixo, double dias_trabalhados,
                             int matricula) {
