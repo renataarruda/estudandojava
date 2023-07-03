@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafio Final/Desafio Final.iml" filepath="$PROJECT_DIR$/Desafio Final/Desafio Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logica/EstruturaDados/EstruturaDados.iml" filepath="$PROJECT_DIR$/Logica/EstruturaDados/EstruturaDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logica/EstruturasDecisao/EstruturasDecisao.iml" filepath="$PROJECT_DIR$/Logica/EstruturasDecisao/EstruturasDecisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO com Java/ProjetoDois/ProjetoDois.iml" filepath="$PROJECT_DIR$/POO com Java/ProjetoDois/ProjetoDois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO com Java/ProjetoUm/ProjetoUm.iml" filepath="$PROJECT_DIR$/POO com Java/ProjetoUm/ProjetoUm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudandojava.iml" filepath="$PROJECT_DIR$/.idea/estudandojava.iml" />
+    </modules>
+  </component>
+</project>
