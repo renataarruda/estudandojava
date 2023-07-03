@@ -24,4 +24,9 @@ Caso não haja mais cálculos a serem realizados, basta selecionar a opção "Fi
 
 Lembre-se de desenvolver o programa utilizando os conceitos de Orientação a Objetos que julgar mais adequados.
 
-{Em desenvolvimento)
+### Desenvolvimento
+
+Foi criada a classe abstrata ```Figura Geométrica``` para o molde das figuras e utilizada a herança para implementação do código.
+Figura ```Círculo``` necessita de refatoração.
+
+Para a calculadora, foram utilizadas as estruturas de decisão ```Do/While``` para a exibição e finalização do Menu Inicial e ```Switch/Case``` para escolha das opções de figuras e seus respectivos cálculos.
