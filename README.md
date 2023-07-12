@@ -30,3 +30,7 @@ Foi criada a classe abstrata ```Figura Geométrica``` para o molde das figuras e
 Figura ```Círculo``` necessita de refatoração.
 
 Para a calculadora, foram utilizadas as estruturas de decisão ```Do/While``` para a exibição e finalização do Menu Inicial e ```Switch/Case``` para escolha das opções de figuras e seus respectivos cálculos.
+
+### Edit
+
+Incluindo exercícios de módulos vistos no curso livre **Java Fundamentos**, da [FIAP](on.fiap.com.br/).
