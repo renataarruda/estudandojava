@@ -33,4 +33,4 @@ Para a calculadora, foram utilizadas as estruturas de decisão ```Do/While``` pa
 
 ### Edit
 
-Incluindo exercícios de módulos vistos no curso livre **Java Fundamentos**, da [FIAP](on.fiap.com.br/).
+Incluindo exercícios de módulos vistos no curso livre **Java Fundamentos**, da [FIAP](https://eucapacito.com.br/curso-ec/java-fundamentos).
